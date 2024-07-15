@@ -1,4 +1,4 @@
-# Chat_with_multiple_pdfs
+# A RAG powered chatbot to chat with multiple pdfs
 
-This project aims to provide an environment where the user can chat with multiple pdfs with different context. It uses langchain, mistral and streamlit for front end.
+An application, that allows the user to chat with the streamlit app which can answer questions from the three annual report pdfs of Tesla, Uber and Google.
  
